@@ -148,3 +148,6 @@ CS50 drilled the habit of breaking tasks into smaller files, commenting everythi
 - the repo is intentionally lightweight, so you can extend it however you like—more analytics, different Gemini models, or even another domain page.
 
 enjoy hacking on the multi-domain intelligence platform! if anything feels confusing, open the code and read the inline `#` notes—they mirror the explanations I gave above.
+
+## demo video link
+- https://youtu.be/injLRc-r96E
