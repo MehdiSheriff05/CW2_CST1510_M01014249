@@ -1,0 +1,11 @@
+opened_date,category,priority,status,assigned_staff,description,resolved_date
+2025-01-04,Network,high,in_progress,Technician A,"Wi-Fi outage on floor 4",
+2025-01-02,Hardware,medium,waiting_user,Technician B,"Laptop fan replacement",
+2024-12-26,Software,low,resolved,Technician C,"Timesheet app patch",2024-12-28
+2025-01-05,Access,medium,new,,"New contractor VPN access",
+2025-01-03,Hardware,high,in_progress,Technician D,"Server rack temperature alert",
+2024-12-31,Network,medium,resolved,Technician E,"Slow VPN tunnel",2025-01-01
+2024-12-29,Software,medium,in_progress,Technician F,"Expense app errors",
+2024-12-27,Access,low,resolved,Technician G,"Badge replacement",2024-12-28
+2024-12-24,Hardware,high,waiting_user,Technician H,"Battery swelling issue",
+2024-12-22,Network,medium,resolved,Technician I,"Cable replacement",2024-12-23

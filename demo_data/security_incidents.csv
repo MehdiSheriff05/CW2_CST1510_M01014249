@@ -1,0 +1,11 @@
+created_date,incident_type,severity,status,description,assigned_to,resolved_date
+2025-01-05,phishing,medium,open,"Suspicious email targeting finance",Analyst A,
+2025-01-03,malware,high,in_progress,"Workstation flagged by EDR",Analyst B,
+2024-12-28,other,resolved,"Legacy server brute force attempt",Analyst C,2024-12-30
+2025-01-06,phishing,low,open,"Link shared in chat",Analyst D,
+2025-01-02,malware,critical,in_progress,"Ransomware on shared drive",Analyst E,
+2024-12-31,other,resolved,"Lost laptop reported",Analyst F,2025-01-02
+2024-12-27,phishing,medium,resolved,"Credential harvesting page",Analyst G,2024-12-28
+2024-12-25,malware,high,in_progress,"Macro malware alert",Analyst H,
+2024-12-23,other,low,open,"Unauthorized USB detected",Analyst I,
+2024-12-20,phishing,medium,resolved,"Multiple password reset emails",Analyst J,2024-12-21

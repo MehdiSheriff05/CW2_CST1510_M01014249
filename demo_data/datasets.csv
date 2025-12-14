@@ -1,0 +1,11 @@
+name,department,size_mb,rows_count,quality_score,source_dependency,upload_date
+Customer Segments,Marketing,120.5,50000,78,CRM,2025-01-01
+Financial Forecasts,Finance,85.0,12000,88,ERP,2024-12-20
+Ops Sensors,Operations,240.8,800000,82,SCADA,2024-12-18
+HR Headcount,HR,45.2,3400,75,HRIS,2025-01-04
+Web Analytics,Marketing,310.0,1500000,80,GA4,2024-12-30
+Inventory Snapshot,Operations,90.5,67000,84,WMS,2024-12-27
+Fraud Alerts,Finance,55.3,22000,76,SIEM,2024-12-29
+Research Notes,Research,15.0,500,70,SharePoint,2024-12-22
+Customer Support,Operations,200.2,410000,83,Helpdesk,2025-01-02
+Sales Pipeline,Sales,68.4,15000,81,CRM,2024-12-21
